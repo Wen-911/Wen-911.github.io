@@ -1,5 +1,5 @@
 ## graph: proc sgpanel 
-
+```sas
 /*************************************************************************************************
 1.Adding Statistics and Text to the Panel Graphs using INSET option in PROC SGPANEL
 site: https://www.pharmasug.org/proceedings/2016/QT/PharmaSUG-2016-QT07.pdf
@@ -51,3 +51,4 @@ PROC SGPANEL DATA=merged;
 									POSITION=topright TEXTATTRS=(style=italic)
 									TITLE="Averages";
 RUN;
+```
