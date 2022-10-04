@@ -1,5 +1,4 @@
-# graph
-## use proc sgpanel to create multiple graphs by the group variable
+# use proc sgpanel to create multiple graphs by the group variable
 
 For Pharmacokinetics Parameters (PP) like CMAX, to output the graphs by each subjid
 
