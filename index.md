@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+About me:
+experience with statistical programming of global and local clinical trials in some therapeutic area like Oncology, Pulmonology, Psychiatry, Immunology, Infection, Device, IVD etc. 
