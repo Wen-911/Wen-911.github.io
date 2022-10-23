@@ -1,5 +1,7 @@
 # use proc sgpanel to create multiple graphs by the group variable
 
+To decrease the programming budget of the clinical study, output the graphs by group variable
+
 For Pharmacokinetics Parameters (PP) like CMAX, to output the graphs by each subjid
 
 For IVD studys, to generate the sub-sites pictures such as scatter, regression or bias
