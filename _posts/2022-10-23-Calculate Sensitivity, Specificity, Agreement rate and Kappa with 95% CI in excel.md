@@ -1,4 +1,4 @@
-# Calculate Sensitivity, Specificity, Agreement rate and Kappa with 95% CI in excel
+# Calculate Sensitivity, Specificity, Agreement rate and Kappa with 95% CI in excel(VBA)
 
 ## To QC the result of 2*2 table for non-programmers like PM 
 
