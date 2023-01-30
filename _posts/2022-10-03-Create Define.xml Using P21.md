@@ -1,4 +1,4 @@
-Create Define Using P21
+#Create Define Using P21
 1. Download the package of adam define from CDISC website
 https://www.cdisc.org/standards/data-exchange/define-xml
  
