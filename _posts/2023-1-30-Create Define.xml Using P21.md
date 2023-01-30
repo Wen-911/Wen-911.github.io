@@ -1,4 +1,5 @@
 #Create Define Using P21
+
 1. Download the package of adam define from CDISC website
 https://www.cdisc.org/standards/data-exchange/define-xml
  ![image](https://user-images.githubusercontent.com/114982176/215491080-086c333d-351f-4395-af5f-9a2d5068cc7f.png)
@@ -25,12 +26,17 @@ https://www.pinnacle21.com/
  ![image](https://user-images.githubusercontent.com/114982176/215491198-79ac753a-acd5-479d-a4cf-fffe405d2691.png)
 
 
-PS:
+#PS:
 a. order of the datasets and variables
+
 b. Check the hyperlink of the external files and codelist/comments/code
+
 c. Are there some unresolved codelist variables(search CL.XXX) 
+
 d. VLM works normally
+
 e. Check the syntax of derivation
+
 f. Note the version of Meddra/Whodrug/Adam IG... 
 
 
